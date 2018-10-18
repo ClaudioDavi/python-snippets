@@ -1,0 +1,3 @@
+log:
+  level: 'INFO'
+  formatter: '%(asctime)s - %(filename)s:%(lineno)s at %(funcName)s() - %(levelname)s - %(message)s'
